@@ -1,0 +1,23 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": true,
+  "workbench.colorTheme": "Slack Theme Aubergine Dark",
+  "settingsSync.ignoredExtensions": ["tal7aouy.icons"],
+  "workbench.iconTheme": "icons",
+  "editor.stickyScroll.enabled": false,
+  "editor.scrollbar.verticalScrollbarSize": 15,
+  "editor.scrollbar.horizontalScrollbarSize": 6,
+  "workbench.activityBar.location": "top",
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "workbench.productIconTheme": "fluent-icons",
+  "[html]": {
+    "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+  },
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
