@@ -16,7 +16,18 @@ export const BackgroundImage = styled.img`
   z-index: -1;
 `;
 
-export const LogoImage = styled.img``;
+export const LogoImage = styled.img`
+  width: 200px;
+`;
+
+export const TitleLogin = styled.h2`
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 21px;
+  color: #006397;
+`;
 
 export const ContainerLogin = styled.div`
   display: flex;
@@ -36,6 +47,7 @@ export const LimitedContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   width: 100%;
   max-width: 498px;
 `;
